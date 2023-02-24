@@ -1,0 +1,17 @@
+@mixin flexSetting($direction, $jus, $ali){
+  display: flex;
+  flex-direction: $direction;
+  justify-content: $jus;
+  align-items: $ali;
+}
+@mixin backgroundSetting($url, $size, $pos, $att:local){
+  background-image: url($url);
+  background-size: $size;
+  background-position: $pos;
+  background-repeat: no-repeat;
+  background-attachment: $att;
+}
+@mixin lineFlex(){
+  display: flex;
+  align-items: center;
+}

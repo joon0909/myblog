@@ -1,3 +1,4 @@
+
 # myblog
 프로젝트 시작일 : 2023년 2월 20일
 
@@ -14,3 +15,14 @@
 * JAVA
 * Spring boot
 * Mybatis
+
+# WELCOME TO MY BLOG!
+
+---
+I'm  
+**CREATIVE_DEVELOPER**
+
+## PARK JUNYOUNG
+입니다.
+
+---
